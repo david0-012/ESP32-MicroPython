@@ -3,10 +3,10 @@ from machine import Pin as pin, ADC, I2C
 from utime import sleep_ms
 from sdd1306 import SSD1306_I2C
 import framebuf
-sensorx = ADC(pin(32))            # pines usados el 35,34,33,36, 39 , 32,
-sensory = ADC(pin(33))            # pines usados el 35,34,33,36, 39 , 32,
-boton = pin(4, pin.IN,pin.PULL_UP)#pin boton jostick
-confirmador = pin(21, pin.IN)     #pin modulo
+sensorx = ADC(pin(34))            # pines usados el 35,34,33,36, 39 , 32,
+sensory = ADC(pin(35))            # pines usados el 35,34,33,36, 39 , 32,
+boton = pin(21, pin.IN,pin.PULL_UP)#pin boton jostick
+confirmador = pin(19, pin.IN)     #pin modulo
 
 sensorx.atten(ADC.ATTN_11DB)   # para calibrar de 0 a 3.6v
 sensorx.width(ADC.WIDTH_12BIT)  # establecer resolución
