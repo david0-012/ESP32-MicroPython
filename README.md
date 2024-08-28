@@ -1,6 +1,6 @@
-# Proyectos con ESP32 🚀
+# Proyecto con ESP32 🚀
 
-¡Bienvenido al repositorio de Proyectos con ESP32! Aquí encontrarás una colección de emocionantes proyectos desarrollados utilizando la potente placa ESP32. Desde juegos interactivos hasta aplicaciones IoT, hemos creado una variedad de proyectos para aprovechar al máximo esta increíble plataforma de desarrollo.
+¡Bienvenido al repositorio de Proyectos con ESP32! Aquí encontrarás un proyecto desarrollado en la potente placa ESP32.
 
 ## Acerca de la ESP32
 
@@ -8,12 +8,12 @@ La ESP32 es una placa de desarrollo de bajo costo que combina conectividad Wi-Fi
 
 ## Contenido del repositorio
 
-Aquí encontrarás una variedad de proyectos emocionantes desarrollados con la ESP32. Cada proyecto incluye su propia carpeta con todos los archivos necesarios, instrucciones de instalación y documentación detallada. ¡Explora, aprende y diviértete mientras descubres nuevas posibilidades con la ESP32!
+Proyecto desarrollado con la ESP32. Incluye su propia carpeta con todos los archivos necesarios, instrucciones de instalación y documentación detallada.
 
 ## Lista de proyectos
 
-- [Triqui con MicroPython y pantalla OLED](OLED/README.md): Un juego clásico de tres en raya implementado utilizando MicroPython y una pantalla OLED. ¡Demuestra tus habilidades y desafía a tus amigos en este emocionante juego!
+- [Triqui con MicroPython y pantalla OLED](OLED/README.md): Un juego clásico de tres en raya implementado utilizando MicroPython y una pantalla OLED. 
 
 ## Contribuye
 
-Nos encantaría que formaras parte de nuestra comunidad de desarrolladores y contribuyeras a este repositorio. Si tienes alguna idea, mejora o proyecto que te gustaría compartir, ¡no dudes en enviarnos tus contribuciones a través de Pull Requests!
+Si tienes alguna idea, mejora o proyecto que te gustaría compartir, ¡envia tus contribuciones a través de Pull Requests!
