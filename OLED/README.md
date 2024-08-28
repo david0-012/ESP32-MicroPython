@@ -1,7 +1,7 @@
 # Juego Triqui con ESP32 y MicroPython 🎮
 
 
-¡Bienvenido al emocionante mundo del Triqui! 🎮 En este proyecto, te presento una implementación única del clásico juego de tres en raya utilizando una ESP32 y el poderoso lenguaje de programación MicroPython.🚀 Prepárate para sumergirte en una experiencia de juego interactiva y adictiva. 😃
+En este proyecto, te presento una implementación única del clásico juego de tres en raya utilizando una ESP32 y el lenguaje de programación MicroPython.🚀
 
 <p align="center">
   <img src="https://github.com/david0-012/ESP32-MicroPython/assets/84252258/643c02d6-adfa-4d21-9120-fb8f68707719" width="500" alt="WhatsApp Image 2023-10-29 at 12:44:12 AM" style="display: block; margin: 0 auto;">
@@ -82,4 +82,4 @@ Si te encanta el Triqui tanto como a nosotros y quieres aportar tu granito de ar
 
 ## Contacto
 
-Si tienes alguna pregunta, comentario o simplemente deseas compartir tu experiencia de juego, no dudes en contactarme a través de [davidcasallas1202@gmail.com]. ¡Esperamos que disfrutes el juego! 🎉
+Si tienes alguna pregunta, comentario o simplemente deseas compartir tu experiencia de juego, no dudes en contactarme a través de [davidcasallas1202@gmail.com]. ¡Esperamos que disfrutes lo disfrutes! 🎉
